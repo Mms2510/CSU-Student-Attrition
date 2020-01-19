@@ -1,2 +1,2 @@
-# TestGitHub
-Test Git Hub is for Practice purpose, and for Interview Assistance to tackle SOurce Control Questions for Automation etc.
+# ManiGitHub
+Test Git Hub is for Interview Assistance to tackle Source Control Questions for Data Sciencs etc.
